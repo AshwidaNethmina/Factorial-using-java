@@ -1,2 +1,2 @@
 # Factorial-using-java
-Calculate factorial using recursive function of java 
+A simple code to calculate factorial using recursive function of java 
